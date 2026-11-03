@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Manik123956/Leetcode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Manik123956/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
