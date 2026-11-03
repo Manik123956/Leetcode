@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manik123956/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
+| [0875-koko-eating-bananas](https://github.com/Manik123956/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manik123956/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Manik123956/Leetcode/tree/master/0061-rotate-list) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Manik123956/Leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
