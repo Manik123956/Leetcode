@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manik123956/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Manik123956/Leetcode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Manik123956/Leetcode/tree/master/0036-valid-sudoku) |
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manik123956/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Manik123956/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Manik123956/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
