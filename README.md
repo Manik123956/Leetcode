@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Manik123956/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Manik123956/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Manik123956/Leetcode/tree/master/0036-valid-sudoku) |
+| [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Manik123956/Leetcode/tree/master/0054-spiral-matrix) |
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manik123956/Leetcode/tree/master/0054-spiral-matrix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
