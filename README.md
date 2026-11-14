@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Manik123956/Leetcode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
@@ -75,4 +76,5 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Manik123956/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
