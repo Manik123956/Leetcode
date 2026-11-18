@@ -14,6 +14,7 @@
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Manik123956/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Manik123956/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manik123956/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | [0036-valid-sudoku](https://github.com/Manik123956/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Manik123956/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manik123956/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
