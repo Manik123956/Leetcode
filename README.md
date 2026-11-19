@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Manik123956/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Manik123956/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manik123956/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manik123956/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0015-3sum](https://github.com/Manik123956/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Manik123956/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manik123956/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manik123956/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
