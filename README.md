@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Manik123956/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manik123956/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Manik123956/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Manik123956/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Manik123956/Leetcode/tree/master/0056-merge-intervals) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manik123956/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manik123956/Leetcode/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
@@ -56,11 +58,13 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
@@ -97,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
