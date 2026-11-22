@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manik123956/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
