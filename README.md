@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/Manik123956/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Manik123956/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Manik123956/Leetcode/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/Manik123956/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Manik123956/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Manik123956/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manik123956/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/Manik123956/Leetcode/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
