@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Manik123956/Leetcode/tree/master/0007-reverse-integer) |
+| [3099-harshad-number](https://github.com/Manik123956/Leetcode/tree/master/3099-harshad-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manik123956/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
