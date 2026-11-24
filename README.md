@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Manik123956/Leetcode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Manik123956/Leetcode/tree/master/0062-unique-paths) |
 | [3099-harshad-number](https://github.com/Manik123956/Leetcode/tree/master/3099-harshad-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manik123956/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manik123956/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Manik123956/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Manik123956/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Manik123956/Leetcode/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Manik123956/Leetcode/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Manik123956/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
