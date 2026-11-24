@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/Manik123956/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manik123956/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@
 | [0198-house-robber](https://github.com/Manik123956/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Manik123956/Leetcode/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Manik123956/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/Manik123956/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Manik123956/Leetcode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Manik123956/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
