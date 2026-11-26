@@ -35,6 +35,7 @@
 | [0007-reverse-integer](https://github.com/Manik123956/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Manik123956/Leetcode/tree/master/0062-unique-paths) |
 | [3099-harshad-number](https://github.com/Manik123956/Leetcode/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/Manik123956/Leetcode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manik123956/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manik123956/Leetcode/tree/master/0054-spiral-matrix) |
+| [3360-stone-removal-game](https://github.com/Manik123956/Leetcode/tree/master/3360-stone-removal-game) |
 ## Algorithm X
 |  |
 | ------- |
